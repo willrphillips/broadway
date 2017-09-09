@@ -19,4 +19,15 @@ h1 {
   color: white;
 }
 
-/* testing new push*/
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+.hero h2 {
+  font-size: 23px;
+}
