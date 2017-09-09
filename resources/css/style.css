@@ -1,4 +1,4 @@
-html {
+body {
   font-family: helvetica, arial, sans-serif;
   text-align: center;
 }
@@ -17,7 +17,6 @@ h1 {
 .nav-button {
   font-size: 18px;
   color: white;
-  : white;
 }
 
 h2 {
@@ -37,4 +36,15 @@ p {
   color:black;
   text-decoration: none;
 }
-/*pushing again*/
+
+.footer {
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+}
+
+.footer-button {
+  font-size: 11px;
+  color: white;
+}
